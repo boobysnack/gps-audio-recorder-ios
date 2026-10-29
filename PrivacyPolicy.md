@@ -194,7 +194,9 @@ The App is designed to work globally. All data processing occurs locally on your
 
 If you have questions or concerns about this Privacy Policy or the App's data handling:
 
-**Email:** jfalias@hotmail.de
+**Email:** jfalias [at] hotmail . de
+
+(written with "[at]" deliberately to reduce automated harvesting; to reach us, replace "[at]" with "@" and remove the spaces.)
 
 **Response Time:** Privacy inquiries are typically answered within 7 business days.
 
